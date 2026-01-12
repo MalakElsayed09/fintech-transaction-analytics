@@ -1,0 +1,4 @@
+merchant_id,month,chargebacks,transactions
+M001,2023-07,2,500
+M002,2023-07,15,300
+M003,2023-07,4,400

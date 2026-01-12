@@ -1,0 +1,4 @@
+merchant_id,tiered_fee_percent,interchange_fee_percent,overpaying
+M001,2.4,N/A,False
+M003,3.1,2.2,True
+M002,N/A,1.75,False

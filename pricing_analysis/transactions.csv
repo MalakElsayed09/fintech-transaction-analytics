@@ -1,0 +1,7 @@
+transaction_id,merchant_id,card_type,pricing_model,amount,fee_percent,date
+T1001,M001,credit,tiered,120.50,2.9,2023-07-01
+T1002,M001,debit,tiered,45.00,1.9,2023-07-01
+T1003,M002,credit,interchange,200.00,2.3,2023-07-02
+T1004,M002,debit,interchange,80.00,1.2,2023-07-02
+T1005,M003,credit,tiered,350.00,3.1,2023-07-03
+T1006,M003,credit,interchange,350.00,2.2,2023-07-03

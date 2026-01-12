@@ -1,0 +1,7 @@
+[
+  {"request_id": "REQ1", "status_code": 200, "response_time_ms": 180},
+  {"request_id": "REQ2", "status_code": 401, "response_time_ms": 95},
+  {"request_id": "REQ3", "status_code": 500, "response_time_ms": 1200},
+  {"request_id": "REQ4", "status_code": 200, "response_time_ms": 210},
+  {"request_id": "REQ5", "status_code": 504, "response_time_ms": 1500}
+]

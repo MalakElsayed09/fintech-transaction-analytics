@@ -1,0 +1,5 @@
+transaction_id,base_price,fee_rate,expected_card_price
+PZ001,10.00,0.03,10.30
+PZ002,25.50,0.029,26.24
+PZ003,100.00,0.025,102.50
+PZ004,7.99,0.03,8.23
