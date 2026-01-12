@@ -4,7 +4,7 @@ import pandas as pd
 # -----------------------------
 # Step 1: Load API logs
 # -----------------------------
-with open("api_logs.json.txt") as f:
+with open("api_logs.json") as f:
     logs = json.load(f)
 
 df = pd.DataFrame(logs)
