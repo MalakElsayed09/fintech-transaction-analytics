@@ -5,7 +5,7 @@ def calculate_card_price(base_price, fee_rate):
     return round(base_price * (1 + fee_rate), 2)
 
 # Step 2: Load test cases
-df = pd.read_csv("payzero_tests.csv")
+df = pd.read_csv("payzero_tests_500plus.csv")
 
 
 # Step 3: Run calculations
